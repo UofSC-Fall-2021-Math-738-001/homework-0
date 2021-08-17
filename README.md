@@ -144,8 +144,8 @@ changes.
 
 I encourage you to push your changes frequently. I have set 
 up the repository to auto-generate a discussion thread in a 
-[pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
-. You can find the find the pull request in the pull request 
+[pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests). 
+You can find the find the pull request in the pull request 
 tab on the GitHub repository webpage. 
 
 ## Common gotchas
