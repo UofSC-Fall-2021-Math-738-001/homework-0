@@ -4,8 +4,9 @@ This homework is your chance to get up to speed on the tools
 used. The actual math should be very easy. 
 
 I am assuming that you already have a TeX compiler installed on 
-your prefered machine. If not, then take a look the 
+your preferred machine. If not, then take a look the 
 [installation instructions for TeX Live](https://www.tug.org/texlive/). 
+(Or if you feeling your oats [Tectonic](https://tectonic-typesetting.github.io/en-US/)).
 
 We are using GitHub Classroom for managining assignment distribution, 
 submission, and feedback. To get started, you will first need a 
