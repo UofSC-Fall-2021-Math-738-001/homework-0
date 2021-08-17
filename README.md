@@ -67,7 +67,7 @@ You can also use ssh if you set up an ssh key
 ```bash
     git clone git@github.com:UofSC-Fall-2021-Math-738-001/hw-x-name.git
 ```
-SSH can often you avoid repeated authentications. 
+Using ssh, you can often avoid repeated authentications. 
 
 2. **Using GitHub Desktop**. 
 [GitHub Desktop](https://desktop.github.com/) is a GUI for 
