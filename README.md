@@ -72,7 +72,7 @@ Windows and MacOS.
     GitHub Desktop. 
     - Follow the instruction prompts. 
 
-3. **Using GitHub CLI**. Which `gh` is available on Windows 
+3. **Using GitHub CLI**. While `gh` is available on Windows 
 and MacOS, I will focus on Linux. 
     - Follow the [install instructions](https://github.com/cli/cli/blob/trunk/docs/install_linux.md) 
     for you distribution. 
@@ -84,7 +84,7 @@ For more details see
 [instructions for cloning a repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository) 
 from GitHub.
 
-## Finishing and submitting the assignment 
+## Editing and submitting
 
 With the files on your machine, you are ready to edit the TeX files. 
 Open the homework file and edit as you normally would. 
@@ -127,9 +127,23 @@ using its desktop app. The equivalent steps to the CLI are
 
 - [Committing and pushing](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/committing-and-reviewing-changes-to-your-project#write-a-commit-message-and-push-your-changes)
 
+## Revisions and re-submission
 
+Your final submission is whatever is in the GitHub 
+repository at the due date. 
+
+You can cycle through 
+[editing and submitting](#editing-and-submitting)
+as many times as you want before the due date to update 
+changes.
+
+I encourage you to push your changes frequently. I have set 
+up the repository to auto-generate a discussion thread in a 
+[pull requestor or PR](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
+. You can find the find the pull request in the pull request 
+tab on the GitHub repository webpage. 
 
 ## Power users 
 
-Feel free to trick out your setup but be aware that I won't 
-be able to assist with all personal setups. 
+Feel free to trick out your own setup but be aware that I won't 
+be able to adequately assist with all personal setups. 
