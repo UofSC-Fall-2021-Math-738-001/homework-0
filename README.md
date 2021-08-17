@@ -160,6 +160,9 @@ starting work or
 - your collaborator pushed changes to the remote repo while you 
 were working. 
 
+[Here](https://charlesreid1.com/wiki/Git/Resolving_Push_Conflicts) 
+is a nice walkthrough of how to merge the changes if you 
+find yourself in this situation. 
 
 ## Power users 
 
