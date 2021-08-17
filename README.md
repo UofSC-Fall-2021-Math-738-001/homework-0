@@ -161,8 +161,13 @@ starting work or
 were working. 
 
 [Here](https://charlesreid1.com/wiki/Git/Resolving_Push_Conflicts) 
-is a nice walkthrough of how to merge the changes if you 
-find yourself in this situation. 
+is a nice walkthrough of how to merge the changes via the 
+`git` CLI if you find yourself in this situation. 
+
+Git itself is an expansive, powerful, and 
+[frustrating](https://ohshitgit.com/) 
+program. But with a little bit of practice, you will get 
+comfortable with using and enjoy its benefits for collaboration. 
 
 ## Power users 
 
