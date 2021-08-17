@@ -3,15 +3,22 @@
 This homework is your chance to get up to speed on the tools 
 used. The actual math should be very easy. 
 
+I am assuming that you already have a TeX compiler installed on 
+your prefered machine. If not, then take a look the 
+[installation instructions for TeX Live](https://www.tug.org/texlive/). 
+
 We are using GitHub Classroom for managining assignment distribution, 
 submission, and feedback. To get started, you will first need a 
 local installation of Git and a GitHub account. 
 
 ## Steps for getting setup with Git and GitHub
 
-1. Register for account on GitHub (https://github.com/). We recommend using a username that incorporates your name (chase, marshall, skye).
+1. Register for account on GitHub (https://github.com/). 
+We recommend using a username that incorporates your name 
+(chase, marshall, skye).
 
-2. Install Git on your favorite machine (https://github.com/git-guides/install-git) if it isn't already there. 
+2. Install Git on your favorite machine 
+(https://github.com/git-guides/install-git) if it isn't already there. 
 
 3. Configure Git. Open a terminal shell in your OS. And enter 
 ```bash
@@ -71,9 +78,15 @@ on the left menu in VS Code.
 ## Power users 
 
 The GitHub Classroom extension in VS Code is a wrapper simplifying 
-your interaction with Git. If you feel sufficiently confident in 
-your Git skills, you can accomplish everything necessary in this class 
-without using VS Code and using command line Git. 
+your interaction with Git. VS Code also provides a convenient 
+environment for writing TeX (or in most languages) and a rich 
+extension ecosystem. 
 
-If you choose to do this, I can only provided limited support on 
-your personal setup. 
+To customize your setup, you, minimally, only need 
+- a TeX compiler,
+- an editor for the TeX files,
+- Git, and
+- a GitHub account.
+
+Feel free to trick out your local setup but be aware that I won't 
+be able to assist with all personal setups. 
