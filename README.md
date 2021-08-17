@@ -83,7 +83,7 @@ and MacOS, I will focus on Linux.
     for you distribution. 
     - Using `gh` is similar in syntax to `git` 
     ```code
-        gh repo clone https://github.com/UofSC-Fall-2021-Math-738-001/homework-x-name
+        gh repo clone UofSC-Fall-2021-Math-738-001/homework-x-name
     ```
 For more details see 
 [instructions for cloning a repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository) 
