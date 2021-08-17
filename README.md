@@ -57,33 +57,79 @@ GitHub has [instructions for cloning a repository](https://docs.github.com/en/gi
 There are three methods: 
 
 1. **Using Git from the command line**. This works for any 
-operation system. You can clone the repository 
+operation system. First navigate no a location where you want 
+to clone the repository. Then invoke
+```code
+    git clone https://github.com/UofSC-Fall-2021-Math-738-001/homework-x-name
+```
 
-## Finishing the assignment 
+2. **Using GitHub Desktop**. 
+[GitHub Desktop](https://desktop.github.com/) is a GUI for 
+Windows and MacOS. 
+    - Download and install GitHub Desktop. 
+    - Navigate to the URL of the assignment repository. 
+    - Click on the green Code button and open in 
+    GitHub Desktop. 
+    - Follow the instruction prompts. 
 
-1. Edit `hw.tex` to solve the mathematical problem. 
+3. **Using GitHub CLI**. Which `gh` is available on Windows 
+and MacOS, I will focus on Linux. 
+    - Follow the [install instructions](https://github.com/cli/cli/blob/trunk/docs/install_linux.md) 
+    for you distribution. 
+    - Using `gh` is similar in syntax to `git` 
+    ```code
+        gh repo clone https://github.com/UofSC-Fall-2021-Math-738-001/homework-x-name
+    ```
+For more details see 
+[instructions for cloning a repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository) 
+from GitHub.
 
-2. After finished, sync your changes back to GitHub, by 
-clicking the `Sync Changes` button in the header bar of the 
-`Assignment` view (the circular arrow button). 
+## Finishing and submitting the assignment 
 
-3. I will respond with some feedback after syncing, through 
-perhaps not immediately. To see the feedback, click on the GitHub icon 
-on the left menu in VS Code. 
+With the files on your machine, you are ready to edit the TeX files. 
+Open the homework file and edit as you normally would. 
+
+Edit `hw.tex` to solve the mathematical problem. 
+ 
+Once you are satisfied, you will need to push the files back to 
+the repository on github.com. 
+
+There are two main ways to commit and push your files are `git` 
+via the command line and GitHub Desktop. 
+
+1. **Git CLI**. If you are using `git` directly, navigate to the folder 
+containing your repository on your machine. Then invoke the 
+following three commands:
+```bash
+    git add -A 
+    git commit -m "message"
+    git push
+```
+
+`git add` selects which local files to you want to send to the 
+remote repository. `git add -A` says you want to add all files. 
+
+`git commit` creates a commit for the added files. The option 
+`-m` is telling `git` that you want to add `message` describing 
+the commit. It is good practice to commit frequently and add 
+short descriptive messages to each commit. If you find yourself 
+needing more space, invoking `git commit` will prompt you for 
+both a title and body of the commit message. 
+
+At this point the changes are committed but not on the cloud 
+repository. The final command `git push` copies all committed 
+changes to the remote repository. 
+
+2. **GitHub Desktop**. GitHub how to stage and push changes 
+using its desktop app. The equivalent steps to the CLI are 
+
+- [Adding the relevant files](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/committing-and-reviewing-changes-to-your-project#selecting-changes-to-include-in-a-commit)
+
+- [Committing and pushing](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/committing-and-reviewing-changes-to-your-project#write-a-commit-message-and-push-your-changes)
+
 
 
 ## Power users 
 
-The GitHub Classroom extension in VS Code is a wrapper simplifying 
-your interaction with Git. VS Code also provides a convenient 
-environment for writing TeX (or in most languages) and a rich 
-extension ecosystem. 
-
-To customize your setup, you, minimally, only need 
-- a TeX compiler,
-- an editor for the TeX files,
-- Git, and
-- a GitHub account.
-
-Feel free to trick out your local setup but be aware that I won't 
+Feel free to trick out your setup but be aware that I won't 
 be able to assist with all personal setups. 
