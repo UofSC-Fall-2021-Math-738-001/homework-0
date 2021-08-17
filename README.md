@@ -143,6 +143,12 @@ up the repository to auto-generate a discussion thread in a
 . You can find the find the pull request in the pull request 
 tab on the GitHub repository webpage. 
 
+## Common gotchas
+
+Git is really easy to mess up but it also a collaboration 
+tool for managing changes to files across different users in a 
+group. Yeet. Yeet. Yeet. 
+
 ## Power users 
 
 Feel free to trick out your own setup but be aware that I won't 
