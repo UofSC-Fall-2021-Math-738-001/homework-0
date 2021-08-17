@@ -143,6 +143,24 @@ up the repository to auto-generate a discussion thread in a
 . You can find the find the pull request in the pull request 
 tab on the GitHub repository webpage. 
 
+## Common gotchas
+
+Git is pretty easy to mess up but it also the standard collaboration 
+tool for managing changes to files across different users in a 
+group. 
+
+You will not be expected to create or manage separate branches 
+in the remote repository. This reduces the complexity. 
+
+In my experience, the most common hiccup is when files on the remote 
+repository and your machine are out of sync. This usually happens 
+either because 
+- you forgot to update your local repo using `git pull` before 
+starting work or 
+- your collaborator pushed changes to the remote repo while you 
+were working. 
+
+
 ## Power users 
 
 Feel free to trick out your own setup but be aware that I won't 
