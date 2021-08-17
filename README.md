@@ -36,31 +36,28 @@ GitHub account.
 6. [Add your key to your GitHub account](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
 
 7. [Test your SSH connection](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
-
  
-## Visual Studio Code
+## Get these files on your computer
 
-Next, you will want an editor that integrates well with GitHub. 
-I've set up the assignments so that they can easily be opened in 
-[Visual Studio Code](https://code.visualstudio.com/).
+Next, you will want to clone the files in this repository to 
+your computer. While technically you can edit the files in 
+a browser, it is not a particularly pleasant experience. 
 
-1. [Download and install VS Code](https://code.visualstudio.com/download)
+To clone a repository, you will need the name of the 
+repository. Your repository is located at 
+```code
+https://github.com/UofSC-Fall-2021-Math-738-001/homework-x-name
+```
+where `x` is the number of the assignment and `name` is either
+- your GitHub username for an individual assignment or
+- your team name for a group assignment. 
 
-2. You will probably want some tooling writing TeX. There are 
-two extensions that I recommend: 
-- [Latex Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) is the most popular and 
-fully-featured one 
-- [TexLab](https://marketplace.visualstudio.com/items?itemName=efoerster.texlab) is a more modern approach that is still filling out 
-a bit. 
+GitHub has [instructions for cloning a repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository). 
 
-3. [Install the GitHub Classroom extension](https://marketplace.visualstudio.com/items?itemName=GitHub.classroom) This extension 
-simplifies both the process of submitting assignments via Git and 
-allows for a pleasant remote collaborative experience. 
+There are three methods: 
 
-You can click on the `Open in Visual Studio Code` badge above to help with the installation process. 
-
-Read through the documentation at (https://marketplace.visualstudio.com/items?itemName=GitHub.classroom). 
-
+1. **Using Git from the command line**. This works for any 
+operation system. You can clone the repository 
 
 ## Finishing the assignment 
 
