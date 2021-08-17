@@ -164,10 +164,15 @@ were working.
 is a nice walkthrough of how to merge the changes via the 
 `git` CLI if you find yourself in this situation. 
 
+[Documentation](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/keeping-your-local-repository-in-sync-with-github/syncing-your-branch)
+for GitHub Desktop also walks you through using this app to 
+merge your local changes with the remote repo. 
+
 Git itself is an expansive, powerful, and 
 [frustrating](https://ohshitgit.com/) 
 program. But with a little bit of practice, you will get 
-comfortable with using and enjoy its benefits for collaboration. 
+comfortable with using it and enjoy its benefits for 
+your collaborations. 
 
 ## Power users 
 
