@@ -59,9 +59,14 @@ There are three methods:
 1. **Using Git from the command line**. This works for any 
 operation system. First navigate no a location where you want 
 to clone the repository. Then invoke
-```code
+```bash
     git clone https://github.com/UofSC-Fall-2021-Math-738-001/homework-x-name
 ```
+You can also use ssh if you set up an ssh key 
+```bash
+    git clone git@github.com:UofSC-Fall-2021-Math-738-001/homework-0.git
+```
+SSH can often you avoid repeated authentications. 
 
 2. **Using GitHub Desktop**. 
 [GitHub Desktop](https://desktop.github.com/) is a GUI for 
