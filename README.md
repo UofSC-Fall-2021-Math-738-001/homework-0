@@ -47,7 +47,7 @@ a browser, it is not a particularly pleasant experience.
 To clone a repository, you will need the name of the 
 repository. Your repository is located at 
 ```code
-https://github.com/UofSC-Fall-2021-Math-738-001/homework-x-name
+https://github.com/UofSC-Fall-2021-Math-738-001/hw-x-name
 ```
 where `x` is the number of the assignment and `name` is either
 - your GitHub username for an individual assignment or
@@ -61,7 +61,7 @@ There are three methods:
 operation system. First navigate no a location where you want 
 to clone the repository. Then invoke
 ```bash
-    git clone https://github.com/UofSC-Fall-2021-Math-738-001/homework-x-name
+    git clone https://github.com/UofSC-Fall-2021-Math-738-001/hw-x-name
 ```
 You can also use ssh if you set up an ssh key 
 ```bash
@@ -84,7 +84,7 @@ and MacOS, I will focus on Linux.
     for you distribution. 
     - Using `gh` is similar in syntax to `git` 
     ```code
-        gh repo clone UofSC-Fall-2021-Math-738-001/homework-x-name
+        gh repo clone UofSC-Fall-2021-Math-738-001/hw-x-name
     ```
 For more details see 
 [instructions for cloning a repository](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository) 
