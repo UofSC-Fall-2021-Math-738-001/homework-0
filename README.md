@@ -6,17 +6,17 @@ used. The actual math should be very easy.
 I am assuming that you already have a TeX compiler installed on 
 your preferred machine. If not, then take a look the 
 [installation instructions for TeX Live](https://www.tug.org/texlive/). 
-(Or if you feeling your oats [Tectonic](https://tectonic-typesetting.github.io/en-US/)).
+(Or if you are feeling your oats [Tectonic](https://tectonic-typesetting.github.io/en-US/)).
 
 We are using GitHub Classroom for managining assignment distribution, 
 submission, and feedback. To get started, you will first need a 
 local installation of Git and a GitHub account. 
 
-## Steps for getting setup with Git and GitHub
+## Steps for getting set up with Git and GitHub
 
 1. Register for account on GitHub (https://github.com/). 
 We recommend using a username that incorporates your name 
-(chase, marshall, skye).
+(chase, marshall, skye, rubble, rocky, zuma).
 
 2. Install Git on your favorite machine 
 (https://github.com/git-guides/install-git) if it isn't already there. 
@@ -92,7 +92,7 @@ from GitHub.
 
 ## Editing and submitting
 
-With the files on your machine, you are ready to edit the TeX files. 
+With the files on your machine, you are ready to edit them. 
 Open the homework file and edit as you normally would. 
 
 Edit `hw.tex` to solve the mathematical problem. 
@@ -101,7 +101,7 @@ Once you are satisfied, you will need to push the files back to
 the repository on github.com. 
 
 There are two main ways to commit and push your files are `git` 
-via the command line and GitHub Desktop. 
+via the command line or using GitHub Desktop. 
 
 1. **Git CLI**. If you are using `git` directly, navigate to the folder 
 containing your repository on your machine. Then invoke the 
@@ -147,7 +147,7 @@ I encourage you to push your changes frequently. I have set
 up the repository to auto-generate a discussion thread in a 
 [pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests). 
 You can find the find the pull request in the pull request 
-tab on the GitHub repository webpage. 
+tab on your GitHub repository page for the assignment. 
 
 ## Common gotchas
 
